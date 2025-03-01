@@ -5,7 +5,7 @@ Formulations are often produced out of specificaiton and require additional ingr
 If a new formula is developed and added to the machine learning model we can use the historical data as an additional check to validate the behavior of the ingredient. Essentially we are comparing the potency predicted in the new case to the potency observed in similar formulations
 
 Purpose of the current project: 
-Develop a new QMV (define) to validate the batch adjustment model before utilization in production by flagging new data that is outside of the historical uncertanty for the data 
+Develop a new QMV (quantitative metric for validation) to validate the batch adjustment model before utilization in production by flagging new data that is outside of the historical uncertanty for the data 
 
 Method:
 Fake data was generated for demonstration purposes (1.1).
